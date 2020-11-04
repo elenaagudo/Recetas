@@ -1,0 +1,43 @@
+{
+    "recipe" : [{
+        "id" : 1,
+        "label" : "Macarrones con gulas",
+        "image" : "https://cookpad.com/es/recipe/images/60fe52545ca1bc65",
+        "source" : "CookPad",
+        "url" : "https://cookpad.com/es/recetas/5233054-macarrones-con-gulas",
+        "healhtLabels" : [],
+        "ingredients" : [{
+            "text": "Macarrones",
+            "weigth" : 50,
+            "measure" : "gr"
+        },{
+            "text": "Gulas",
+            "weigth" : 150,
+            "measure" : "gr"
+        },{
+            "text": "Ajo",
+            "weigth" : 1,
+            "measure" : "ud"
+        },{
+            "text": "Pimienta cayena",
+            "weigth" : 2,
+            "measure" : "ud"
+        }],
+        "steps" : [
+            "Ponemos los macarrones a hervir.",
+            "Ponemos en una sartén el ajo a láminas y cayena. Sofreímos. Luego las gulas.",
+            "Escurrimos los macarrones.",
+            "Lo juntamos todo y dejamos que enfríe."
+        ]
+    },{
+        "id" : 2,
+        "label" : "",
+        "image" : "",
+        "source" : "",
+        "url" : "",
+        "ingredients" : [{
+            "text": "",
+            "weigth" : 0
+        }]
+    }]
+}
