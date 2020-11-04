@@ -31,13 +31,40 @@
         ]
     },{
         "id" : 2,
-        "label" : "",
-        "image" : "",
-        "source" : "",
-        "url" : "",
+        "label" : "Masa de pizza",
+        "image" : "https://www.recetasderechupete.com/wp-content/uploads/2016/10/masa_pizza_italiana-768x527.jpg",
+        "source" : "Recetas de Rechupete",
+        "url" : "https://www.recetasderechupete.com/como-preparar-receta-masa-pizza-italiana/1728/",
+        "healhtLabels" : [],
         "ingredients" : [{
-            "text": "",
-            "weigth" : 0
-        }]
+            "text": "Harina",
+            "weigth" : 200,
+            "measure" : "gr"
+        },{
+            "text": "Agua",
+            "weigth" : 100,
+            "measure" : "ml"
+        },{
+            "text": "Aceite de oliva virgen extra",
+            "weigth" : 25,
+            "measure" : "ml"
+        },{
+            "text": "Levadura",
+            "weigth" : 5,
+            "measure" : "gr"
+        },{
+            "text": "Sal",
+            "weigth" : 25,
+            "measure" : "gr"
+        }],
+        "steps" : [
+            "En un bol grande introducimos la harina de trigo.",
+            "Con una cuchara hacemos un hoyo en el centro del bol y echamos la levadura",
+            "Añadimos el aceite de oliva virgen extra y la sal.",
+            "Añadimos el agua.",
+            "Mezclar todo hasta que sea una masa firme.",
+            "Estirar la masa y añadir los ingredientes de la pizza",
+            "Meter en el horno a 180º durante 15-20 minutos"
+        ]
     }]
 }
