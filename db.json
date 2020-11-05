@@ -5,7 +5,7 @@
         "image" : "https://cookpad.com/es/recipe/images/60fe52545ca1bc65",
         "source" : "CookPad",
         "url" : "https://cookpad.com/es/recetas/5233054-macarrones-con-gulas",
-        "healhtLabels" : [],
+        "healhtLabels" : ["mustard-free"],
         "ingredients" : [{
             "text": "Macarrones",
             "weigth" : 50,
